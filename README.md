@@ -1,2 +1,2 @@
 # testProject
-To test persmission
+To test permission
